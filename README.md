@@ -1,1 +1,1 @@
-# Remove duplicates of an array and returning an array of only unique elements
+# Task: Remove duplicates of an array and return an array of only unique elements
